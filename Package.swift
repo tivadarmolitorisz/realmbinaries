@@ -21,7 +21,6 @@ let package = Package(
         ),
     .binaryTarget(
             name: "RealmSwift",
-            dependencies: ["Realm"],
             url: "https://github.com/tivadarmolitorisz/realmbinaries/releases/download/10.20.2/RealmSwift.xcframework.zip",
             checksum: "5a6c69ecef5913be99c2187a65714b7f21b4d8678a3029a097867d042928326b"
         ),
