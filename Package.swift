@@ -16,13 +16,13 @@ let package = Package(
   targets: [
     .binaryTarget(
             name: "Realm",
-            url: "https://github.com/tivadarmolitorisz/realmbinaries/releases/download/10.22.0/Realm.xcframework.zip",
-            checksum: "872a3466895ff44ddae78bb61d75ab06b3a222e953cfbc8da4453a5e72d2628d"
+            url: "https://github.com/tivadarmolitorisz/realmbinaries/releases/download/10.25.0/Realm.xcframework.zip",
+            checksum: "754ff7ffd4cb4e608533484602502c2225ab4e15f95c499ea43418c7dea69ae5"
         ),
     .binaryTarget(
             name: "RealmSwift",
-            url: "https://github.com/tivadarmolitorisz/realmbinaries/releases/download/10.22.0/RealmSwift.xcframework.zip",
-            checksum: "28a1b6aedca6b0d8e1eceb57fa948e398208eda9df4144fcdeb224cfb430a7d1"
+            url: "https://github.com/tivadarmolitorisz/realmbinaries/releases/download/10.25.0/RealmSwift.xcframework.zip",
+            checksum: "71e1cc10c53b03a447205f4d3dc688b9a991074cff2bc540efac9969f4d6f1ae"
         ),
   ],
   swiftLanguageVersions: [.v5]
